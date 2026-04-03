@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+li.red ~ li {background-color:#191678} /*The telde means "after"*/
+.red{background-color:#b42020;} /* (CLASS SELECTOR) a "." creates a specific ID*/
+*{background:#A95C68} /* (UNIVERSAL SELECTOR) background color*/
+ol,li{background-color:#f7f1d3} /*Comma = "and"*/
+ul li{background-color:#b42020} /*Space = "take Only the parents n child of that code"*/
+#header1{color:#191678;text-align:center;background-color:#f7f1d3;}
+#header2{color:#b42020;text-align:center;background-color:#f7f1d3;}
+#paragrpah1{color:#f7f1d3;background-color:#191678;font-size:30px;}
+#paragrpah2{color:#f7f1d3;background-color:#b42020;font-size:30px;}
+
+img{height:200px;width:200px}
+</style>
+</head>
+
+<body>
+
+<h1 id="header1">Sumayyah Housee</h1>
+<p id="paragrpah1">Programming class</p>
+<h1 id="header2">Grade 11 Girls</h1>
+<p id="paragrpah2">I am craving Pizza</p>
+
+<ol>
+    <li> PizZa </li>
+    <li> PizZa </li>
+    <li class="red"> PizZa </li>
+    <li> PizZa </li>
+</ol>
+
+
+<ul>
+    <li>ChEeSe</li>
+    <li>ChEeSe</li>
+    <li>ChEeSe</li>
+</ul>
+</div>
+
+<img src="https://atsloanestable.com/wp-content/uploads/2023/06/new-york-style-pizza2-500x500.jpg">
+<img src="https://images.wsj.net/im-412556/?width=1280&height=1280">
+
+</body>
+</html>
