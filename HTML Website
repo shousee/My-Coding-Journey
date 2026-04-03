@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:#28282B">
+
+
+<h1 style="font-family:georgia;text-align:center;color:#ffffff;background-color:#908fa5">The Crystal<br> Vault</h1>
+
+<p style="color:white">Each type of gemstone has a unique combination of minerals that gives it its distinct color and properties. For example, the rich red of rubies comes from traces of chromium, while the deep blue of sapphires is due to iron and titanium. Some gemstones even come from space, like the rare peridot, found in meteorites!</p>
+
+<p style="color:white">Lets go through a few common gemstones, such as:</p>
+
+<ul style="color:white">
+<li>Red Rubbies</li>
+<li>Dazzling Saphires</li>
+<li>Royal Emeralds</li>
+</ul>
+
+<h2 style="color:#b02d2d">Red Rubbies</h2>
+<img src="https://www.cjcharles.com/cdn/shop/articles/How_Rare_Are_Rubies.jpg?v=1649271309"height="200"width="200">
+<p style="color:white">Rubies are actually rarer than diamonds! Their vibrant red color comes from trace amounts of chromium, and larger, high-quality rubies can be more valuable than diamonds of the same size.</p>
+<h3 style="color:#b02d2d">Fun Facts:</h3>
+<p style="color:white">Rubies are actually rarer than diamonds! Their vibrant red color comes from trace amounts of chromium, and larger, high-quality rubies can be more valuable than diamonds of the same size.</p>
+<a title="Fun Facts about Rubies" href="https://www.americangemsociety.org/ruby-fun-facts/#:~:text=They%20are%20tough%20and%20durable,in%20second%20place%20to%20diamonds">Click Here for more information. </a>
+
+<h2 style="color:#5550cc">Dazzling Saphires</h2>
+<img src="https://shoprmcgems.com/cdn/shop/products/BS01HMDB_4b2042f1-421e-4024-b814-6bc73855a9c5_1800x1800.jpg?v=1625054014"height="200"width="200">
+<p style="color:white">Sapphires are precious gemstones, best known for their deep blue color but also found in other shades like pink and yellow. Made from the mineral corundum, they are extremely durable, second only to diamonds in hardness. Historically, sapphires symbolize wisdom and royalty, often seen in famous pieces like the British Crown Jewels.</p>
+<h3 style="color:#5550cc">Fun Facts:</h3>
+<p style="color:white">Not all sapphires are blue! While blue is the most famous color, sapphires can also be found in pink, yellow, green, and even colorless varieties. These are known as "fancy sapphires."</p>
+<a title="Fun Facts about Saphires" href="https://www.koserjewelers.com/blog-post/fun-facts-about-sapphire-septembers-birthstone">Click Here for more information. </a>
+
+<h2 style="color:#31895e">Royal Emeralds</h2>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb59Io7l9QECz84aBdSfU_OMWlt783nJ4dAA&s"height="200"width="200">
+<p style="color:white">Emeralds are prized green gemstones made from the mineral beryl, with their color coming from traces of chromium or vanadium. Known for their vibrant hue and rarity, they symbolize rebirth, love, and prosperity. Historically, emeralds were cherished by figures like Cleopatra and are often associated with royalty and luxury.</p>
+<h3 style="color:#31895e">Fun Facts:</h3>
+<p style="color:white">Historically, they symbolize fertility, rebirth, and love, often associated with the goddess Venus. Most emeralds contain natural inclusions known as "jardin," which enhance their character. High-quality emeralds are rarer than diamonds and can be more valuable. One of the most famous emeralds is the Duke of Devonshire Emerald, a remarkable 1,383-carat stone once owned by British nobility. The first recorded emerald mines were in Egypt around 300 B.C., where they were cherished by Cleopatra.</p>
+<a title="27 Interesting Emerald Facts" href="https://www.thesprucecrafts.com/emerald-facts-2042967#:~:text=Emerald%20is%20made%20from%20beryl,the%20Mohs%20Scale%20of%20Hardness.">Click Here for more information. </a>
+
+<h1 style=color:#cba843;text-align:center>Gems Growth</h1>
+
+<Table border="4" align="center">
+
+<tr bgcolor="#e59f9f">
+<th>Year</th>
+<th>Percentage</th>
+</tr>
+
+<tr bgcolor="#abe59f">
+<td>2020</td>
+<td>40%</td>
+</tr>
+
+<tr bgcolor="#abe59f">
+<td>2021</td>
+<td>60%</td>
+</tr>
+
+<tr bgcolor="#abe59f">
+<td>2022</td>
+<td>70%</td>
+</tr>
+
+<tr bgcolor="#abe59f">
+<td>2023</td>
+<td>85%</td>
+</tr>
+
+<tr bgcolor="#abe59f">
+<td>2024</td>
+<td>90%</td>
+</tr>
+
+</Table>
+
+<h2 style="color:#908fa5">The Use of Gems</h2>
+<p style="color:white">Gemstones are a key element in jewelry making, often used as stunning centerpieces in rings, necklaces, and earrings. Popular gems like diamonds, sapphires, and emeralds add elegance and value to each piece. Smaller gems can serve as accent stones, enhancing the overall design with extra sparkle. Whether as bold pendants or intricate settings, gemstones bring color, brilliance, and uniqueness to jewelry creations.</p>
+<iframe width="520" height="310" src="https://www.youtube.com/embed/cRLhQRaxGj8?si=WYQ73ZazQS2N3FWh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h3 style="color:white">Summary of stones we went through:</h3>
+<ol style="color:white">
+<li>Rubies</li>
+<li>Saphires</li>
+<li>Emeralds</li>
+</ol>
+
+<script type="text/javascript">
+//Here is how we add a comment
+document.write("Gems in Jewelry")
+alert("Welcome to the Crystal Vault!")
+</script>
+
+<p style="color:white">Written by Sumayyah Housee<br>Grade 11A</p>
+
+
+</body>
+</html>
