@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<form action="results.html" method="get">
+
+<div>
+<label for="text">Username</label>
+<input type="text" name="Username" id="Username" Value="Sumayyah" placeholder="Enter your Username" required>
+</div>
+
+<div>
+<label for="email">Email</label>
+<input type="email" name="Email" id="email" placeholder="Enter your Email" required>
+</div>
+
+<div>
+<label for="age">Age</label>
+<input type="number" name="age" placeholder="Select your Age" id="age" min="1" max="100" step="1" required>
+</div>
+
+<div>
+<label for="date">Birthdate</label>
+<input type="date" name="Birthdate" placeholder="Enter your Birthdate" id="date" max="2025-05-11" required>
+</div>
+
+<div>
+<label>Password</label>
+<input type="password" name="Password" Value="Student1" placeholder="Enter your Password" required>
+</div>
+
+<div>
+    Favorite Food
+    <div>
+        <label>Coconut
+            <input type="Checkbox" name="Coconut" required>
+        </label>
+    </div>
+    <div>
+         <label>Cherry
+            <input type="Checkbox" name="Cherry" required>
+        </label>
+    </div>
+    <div>
+         <label>Mango
+            <input type="Checkbox" name="Mango" required>
+        </label>
+    </div>
+</div>
+
+<div>
+    Gender
+    <div>
+        <label>Male
+            <input type="radio" name="Male" required>
+        </label>
+    </div>
+    <div>
+         <label>Female
+            <input type="radio" name="Female" required>
+        </label>
+    </div>
+</div>
+
+<div>
+    <label>Eye Color</label>
+    <select name="eyecolor" id="eyecolor">
+        <option value="Brown">Brown</option>
+        <option label="Grey" value="Grey">Blue</option>
+        <option label="Green" value="Green">Blue</option>
+    </select>
+</div>
+
+<div>
+    <label for="bio">Bio</label>
+    <textarea id="bio" name="bio"></textarea>
+</div>
+
+<div>
+    <label>Upload your File
+        <input type="file" name="file">
+    </label>
+</div>
+
+<div>
+    <label>Phone
+        <input type="tell" name="phone" id"Phone">
+    </label>
+</div>
+
+<div>
+    <label>URL
+        <input type="url" name="url" id="url">
+    </label>
+</div>
+
+<div>
+    <label>Color
+        <input type="color" name="color" id="color">
+    </label>
+</div>
+
+<div>
+<button type="reset">Reset</button>
+<button type="submit">Submit</button>
+</div>
+
+</form>
+
+</body>
+</html>
+
+
