@@ -1,4 +1,4 @@
-<html>
+doc<html>
 <head>
 <style>
 li.red ~ li {background-color:#191678} /*The telde means "after"*/
